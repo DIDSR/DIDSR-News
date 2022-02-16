@@ -1,5 +1,5 @@
 # DIDSR Matchmaking Session - February 16, 2022
 
-Held a 1hr session to increase collaboration with the community. Discussed funding mechanisms through the ORISE program for both students and faculty.
+We held a 1hr session to discuss DIDSR projects actively looking for ORISE participants. We also discuss the funding mechanisms for both students and faculty participants through the ORISE program.
 
-This folder contains both the recording of the session and presentation slides. 
+This folder contains both the session recording and presentation slides. 
