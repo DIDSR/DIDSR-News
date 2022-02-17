@@ -6,6 +6,6 @@ Welcome to DIDSR News, this will be one of our ways to share DIDSR materials wit
 
 ----
 
-#### [20220216 DIDSR Matchmaking Session (February 16, 2022)](https://github.com/DIDSR/DIDSR-News/tree/main/20220216%20DIDSR-Matchmaking-Session)
+#### [20220216 DIDSR Matchmaking Session (February 16, 2022)](https://github.com/DIDSR/DIDSR-News/tree/main/20220216-DIDSR-Matchmaking-Session)
 
 Session to increase collaboration opportunities with DIDSR and the community.
