@@ -3,8 +3,9 @@
 We held a 1hr session to discuss DIDSR projects actively looking for ORISE participants. We also discuss the funding mechanisms for both students and faculty participants through the ORISE program.
 
 
-### Link to presentation recording
-https://vimeo.com/678773679
+### [Link to presentation recording](https://vimeo.com/678773679)
+
+### [Link to the slides presented](https://github.com/DIDSR/DIDSR-News/blob/main/20220216-DIDSR-Matchmaking-Session/20220216-DIDSR-matchmaking-%20session.pdf)
 
 
 ### Original email invitation to collaborators
