@@ -6,8 +6,8 @@ Welcome to DIDSR News, this will be one of our ways to share DIDSR materials wit
 
 ----
 
+#### [20221201 RSNA 2022 Presentation by Aldo Badano on In Silico Trials](https://github.com/DIDSR/DIDSR-News/tree/main/20221201-RSNA-2022-Aldo-Badano-In-Silico-Trials\badano-victre_talks-rsna2022.pdf)
+    Presentation by Aldo Badano at RSNA 2022 on In Silico Imaging Trials for Regulatory Evaluation.
+
 #### [20220216 DIDSR Matchmaking Session (February 16, 2022)](https://github.com/DIDSR/DIDSR-News/tree/main/20220216-DIDSR-Matchmaking-Session)
-
-#### [20221201 RSNA 2022 Presentation by Aldo Badano on In Silico Trials](https://github.com/DIDSR/DIDSR-News/tree/main/20220216-DIDSR-Matchmaking-Session)
-
-Session to increase collaboration opportunities with DIDSR and the community.
+    Session to increase collaboration opportunities with DIDSR and the community.
